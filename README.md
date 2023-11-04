@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Keen BS Software Engineering student with a lot of interest in Web and Mobile App development. I am always eager to learn about new cutting-edge technologies.
+A dedicated Full Stack Software Engineer with a strong background in the MERN stack, NextJS, Firebase, and Python frameworks. With a proven track record in developing efficient, user-centric web applications, I bring a problem-solving mindset and a commitment to delivering high-quality software. Whether you're looking to build a new web application or enhance an existing one, I'm here to provide the expertise and dedication you need to achieve your goals.. I am always eager to learn about new cutting-edge technologies.
 
 
 ## 🌐 Socials:
